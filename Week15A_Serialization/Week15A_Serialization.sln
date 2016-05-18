@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week15A_Serialization_EX1", "Week15A_Serialization_EX1\Week15A_Serialization_EX1.csproj", "{1BED0C43-A8E9-4578-8781-C42F180072D4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week15A_Serialization", "Week15A_Serialization_EX1\Week15A_Serialization.csproj", "{1BED0C43-A8E9-4578-8781-C42F180072D4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
